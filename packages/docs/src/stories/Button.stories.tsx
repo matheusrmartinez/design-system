@@ -2,7 +2,7 @@ import { Button, ButtonProps } from '@dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
-  title: 'Button',
+  title: 'Form/Button',
   component: Button,
   args: {
     children: 'Enviar',
