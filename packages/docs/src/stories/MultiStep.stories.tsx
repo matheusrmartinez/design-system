@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@dev-ui/react'
+import { Box, MultiStep, MultiStepProps } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

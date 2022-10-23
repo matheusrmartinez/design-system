@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@dev-ui/react'
+import { Avatar, AvatarProps } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

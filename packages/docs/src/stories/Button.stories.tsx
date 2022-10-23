@@ -1,4 +1,4 @@
-import { Button, ButtonProps } from '@dev-ui/react'
+import { Button, ButtonProps } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 import { ArrowRight } from 'phosphor-react'
 

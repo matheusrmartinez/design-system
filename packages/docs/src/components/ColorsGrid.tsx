@@ -1,4 +1,4 @@
-import { colors } from '@dev-ui/tokens'
+import { colors } from '@matheus-dev-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

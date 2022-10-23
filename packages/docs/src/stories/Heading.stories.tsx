@@ -1,4 +1,4 @@
-import { Heading, HeadingProps } from '@dev-ui/react'
+import { Heading, HeadingProps } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

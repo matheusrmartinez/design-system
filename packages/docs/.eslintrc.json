@@ -1,3 +1,3 @@
 {
-    "extends": "@dev-ui/eslint-config"
+    "extends": "@matheus-dev-ui/eslint-config"
 }

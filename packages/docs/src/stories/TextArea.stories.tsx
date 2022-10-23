@@ -1,4 +1,4 @@
-import { Box, TextArea, TextAreaProps, Text } from '@dev-ui/react'
+import { Box, TextArea, TextAreaProps, Text } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

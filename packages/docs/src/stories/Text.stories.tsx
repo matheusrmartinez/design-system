@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@dev-ui/react'
+import { Text, TextProps } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {

@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@dev-ui/tokens'
+} from '@matheus-dev-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

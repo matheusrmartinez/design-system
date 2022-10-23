@@ -1,4 +1,4 @@
-import { Box, TextInput, TextInputProps, Text } from '@dev-ui/react'
+import { Box, TextInput, TextInputProps, Text } from '@matheus-dev-ui/react'
 import type { StoryObj, Meta } from '@storybook/react'
 
 export default {
