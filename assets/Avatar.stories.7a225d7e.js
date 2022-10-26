@@ -1,0 +1,2 @@
+import{A as t}from"./index.54158e7b.js";import"./index.622dc9cd.js";import"./iframe.f2001916.js";import"./index.95b101cc.js";import"./jsx-runtime.ee1a4bce.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/matheusrmartinez.png",alt:"Matheus Martinez"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.7a225d7e.js.map
